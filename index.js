@@ -1,4 +1,5 @@
-/** Express same like Node.js will help us create a backend server, however express helps with the posibility of 
+/**@author Gabrial Zencha 
+ * Express same like Node.js will help us create a backend server, however express helps with the posibility of 
  * adding several routes and easy setup of our backend server
  */
 const express = require('express')

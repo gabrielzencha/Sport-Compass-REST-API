@@ -1,3 +1,7 @@
+/**
+ * @author Gabrial Zencha
+ * This file handles incoming server request by connecting to the database and perfoming the required operation
+ */
 const Pool = require('pg').Pool
 const pool = new Pool({
   user: 'api',
